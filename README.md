@@ -21,8 +21,7 @@ This repository includes selected writing samples that focus on solving real pro
 
 ### 1. DevOps Basics  
 Explains what DevOps actually means using real-world workflow examples.  
-📄 `articles/devops-basics.md`
-
+ `📄 [Read Article](articles/devops-basics.md) 
 ### 2. Linux Troubleshooting  
 Covers common server issues and how to debug them step by step.  
 📄 `articles/linux-debugging.md`
