@@ -37,5 +37,5 @@ Breaks down APIs in a simple way and explains why systems depend on them.
 - Structured and readable documentation  
 
 ## Contact
-- LinkedIn: (add your link here later)
+- LinkedIn: www.linkedin.com/in/aiman-zafar44
 - Fiverr: (add later when ready)
