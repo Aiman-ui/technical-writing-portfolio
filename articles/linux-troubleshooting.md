@@ -3,7 +3,7 @@
 > **Published on:** Medium  
 > **Category:** Linux / System Administration  
 > **Target Audience:** Beginners in IT, junior sysadmins, DevOps newcomers  
-> **Read on Medium:** *https://medium.com/@aimangull472/why-linux-servers-fail-at-the-worst-time-and-how-to-fix-them-623e904775b4*
+> **Read on Medium:** *[read here](https://medium.com/@aimangull472/why-linux-servers-fail-at-the-worst-time-and-how-to-fix-them-623e904775b4)*
 
 ---
 
