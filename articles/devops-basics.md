@@ -3,7 +3,7 @@
 > **Published on:** Medium  
 > **Category:** DevOps  
 > **Target Audience:** Beginners in IT, junior engineers, non-technical professionals  
-> **Read on Medium:**  https://medium.com/@aimangull472/why-devops-could-save-your-job-even-if-you-hate-tech-e159d98ed71d
+> **Read on Medium:**  [Read here](https://medium.com/@aimangull472/why-devops-could-save-your-job-even-if-you-hate-tech-e159d98ed71d)
 
 ---
 
