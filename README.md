@@ -28,7 +28,7 @@ Covers common server issues and how to debug them step by step.
 
 ### 3. API Fundamentals  
 Breaks down APIs in a simple way and explains why systems depend on them.  
-📄 `articles/api-basics.md`
+📄 [Read Article](articles/api-basics.md)
 
 ## Skills Demonstrated
 - Simplifying complex technical topics  
@@ -37,5 +37,5 @@ Breaks down APIs in a simple way and explains why systems depend on them.
 - Structured and readable documentation  
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/aiman-zafar44
-- Fiverr: (add later when ready)
+ [LinkedIn](www.linkedin.com/in/aiman-zafar44)
+- Fiverr: ()
