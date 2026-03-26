@@ -38,4 +38,3 @@ Breaks down APIs in a simple way and explains why systems depend on them.
 
 ## Contact
  [LinkedIn](www.linkedin.com/in/aiman-zafar44)
-- Fiverr: ()
