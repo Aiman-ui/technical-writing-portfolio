@@ -24,11 +24,11 @@ Explains what DevOps actually means using real-world workflow examples.
  📄 [Read Article](articles/devops-basics.md) 
 ### 2. Linux Troubleshooting  
 Covers common server issues and how to debug them step by step.  
-📄 [Read Article](articles/linux-debugging.md)
+📄 [Read Article](articles/linux-troubleshooting.md)
 
 ### 3. API Fundamentals  
 Breaks down APIs in a simple way and explains why systems depend on them.  
-📄 [Read Article](articles/api-basics.md)
+📄 [Read Article](articles/what_api_do.md)
 
 ## Skills Demonstrated
 - Simplifying complex technical topics  
