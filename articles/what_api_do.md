@@ -3,7 +3,7 @@
 > **Published on:** Medium  
 > **Category:** General IT / Web Fundamentals  
 > **Target Audience:** Beginners in IT, junior developers, non-technical professionals  
-> **Read on Medium:** *[Insert Medium link here]*
+> **Read on Medium:** *[here](https://medium.com/@aimangull472/what-apis-really-do-and-why-everything-breaks-without-them-835416df8b91)*
 
 ---
 
